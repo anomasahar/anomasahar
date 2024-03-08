@@ -11,9 +11,11 @@
 ###
 
 ### Profile Summary
+<div align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anomasahar&theme=github_dark">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anomasahar&theme=github_dark" alt="GitHub Profile Summary Card" style="max-width: 100%;">
 </a>
+</div>
 
 ###
 
@@ -21,7 +23,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
