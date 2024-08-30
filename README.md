@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am Anoma Sahar, a passionate programmer 💻 with a solid foundation in computer science. Currently pursuing a Certified Cloud Native Applied Generative AI Engineer certification at PIAIC, I am driven to contribute to cutting-edge projects, focusing on mastering Generative AI, cloud computing, and applied AI. I am an eager and flexible professional 🌟, with a strong desire for continuous learning and growth, quickly grasping new ideas and technologies ⚙️ while thriving in dynamic environments. I excel in problem-solving and coding excellence 💡 and am actively seeking a challenging work atmosphere where I can put my skills to use. I look forward to connecting with like-minded professionals 🤝 to explore opportunities for creating impactful solutions together</p>
+<p align="left">I’m Anoma Sahar, a passionate programmer with a solid foundation in computer science, currently pursuing a Certified Cloud Native Applied Generative AI Engineer certification at PIAIC. I thrive in dynamic environments, excel in problem-solving, and am eager to contribute to innovative projects in Generative AI and cloud computing. I'm actively seeking opportunities to apply my skills and collaborate with like-minded professionals to create impactful solutions. Let's connect!</p>
 
 ###
 
