@@ -2,28 +2,23 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<p align="center">A passionate Modern Full Stack Developer with expertise in Next.js, TypeScript, Python, FastAPI and Docker.</p>
 
 ###
 
-<p align="left">Generative AI and web 3.0 | Typescript | Javascript | Python<br><br>🚀 Let's connect and explore opportunities to create impactful solutions together!</p>
+<h5 align="left">About Me</h5>
 
 ###
 
-### Profile Summary
-<div align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anomasahar&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anomasahar&theme=github_dark" alt="GitHub Profile Summary Card" style="max-width: 100%;">
-</a>
-</div>
+<p align="left">I am Anoma Sahar, a passionate programmer 💻 with a solid foundation in computer science. Currently pursuing a Certified Cloud Native Applied Generative AI Engineer certification at PIAIC, I am driven to contribute to cutting-edge projects, focusing on mastering Generative AI, cloud computing, and applied AI. I am an eager and flexible professional 🌟, with a strong desire for continuous learning and growth, quickly grasping new ideas and technologies ⚙️ while thriving in dynamic environments. I excel in problem-solving and coding excellence 💡 and am actively seeking a challenging work atmosphere where I can put my skills to use. I look forward to connecting with like-minded professionals 🤝 to explore opportunities for creating impactful solutions together</p>
 
 ###
 
-<h3 align="left">Languages and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,7 +33,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
