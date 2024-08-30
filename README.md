@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 I'am Anoma Sahar</h1>
+<h1 align="center">Hi there 👋 I'am Anoma Sahar</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m Anoma Sahar, a passionate programmer with a solid foundation in computer science, currently pursuing a Certified Cloud Native Applied Generative AI Engineer certification at PIAIC. I thrive in dynamic environments, excel in problem-solving, and am eager to contribute to innovative projects in Generative AI and cloud computing. I'm actively seeking opportunities to apply my skills and collaborate with like-minded professionals to create impactful solutions. Let's connect!</p>
+<p align="left">I’m a passionate programmer with a solid foundation in computer science, currently pursuing a Certified Cloud Native Applied Generative AI Engineer certification at PIAIC. I thrive in dynamic environments, excel in problem-solving, and am eager to contribute to innovative projects in Generative AI and cloud computing. I'm actively seeking opportunities to apply my skills and collaborate with like-minded professionals to create impactful solutions. Let's connect!</p>
 
 ###
 
