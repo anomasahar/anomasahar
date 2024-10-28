@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">I am a passionate programmer with a solid foundation in computer science, currently pursuing a Certified Cloud Native Generative,
-Agentic, and Robotic AI Engineer certification at PIAIC. I thrive in dynamic environments, excel in problem-solving, and am eager to contribute to innovative projects in Generative AI and cloud computing. I'm actively seeking opportunities to apply my skills and collaborate with like-minded professionals to create impactful solutions. Let's connect!</p>
+<p align="left">👋 Hi, I'm Anoma Sahar, a passionate Full Stack Developer and AI enthusiast! Currently pursuing the Certified Agentic and Robotic AI Engineer certification at PIAIC, I have hands-on experience in Next.js, TypeScript, Python, FastAPI, Docker, and Tailwind CSS. I’m driven to build innovative, scalable web applications and explore AI's potential in robotics. Let’s connect and create impactful solutions together!</p>
 
 ###
 
