@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Anoma Sahar, a passionate Full Stack Developer and AI enthusiast! Currently pursuing the Certified Agentic and Robotic AI Engineer certification at PIAIC, I have hands-on experience in Next.js, TypeScript, Python, FastAPI, Docker, and Tailwind CSS. I’m driven to build innovative, scalable web applications and explore AI's potential in robotics. Let’s connect and create impactful solutions together!</p>
+<p align="left">🌍 I’m a passionate Full Stack Developer dedicated to creating modern web applications that deliver seamless user experiences. 💻✨
+
+🌟 I thrive in fast-paced environments, driven by adaptability and a passion for problem-solving. Currently, I’m pursuing the Certified Agentic and Robotic AI Engineer certification at PIAIC, deepening my understanding of AI and its transformative potential. 🎓🤖
+
+🤝 Excited to connect with like-minded professionals and explore innovative, tech-driven solutions. Let’s collaborate and unlock new possibilities together! 🌈🚀</p>
 
 ###
 
