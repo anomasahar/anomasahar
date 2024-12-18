@@ -46,3 +46,4 @@
 
 ### AI & Machine Learning
  ![Custom GPTs](https://img.shields.io/badge/Custom%20GPTs-000000?style=for-the-badge&logo=openai&logoColor=white) 
+ ![Agents](https://img.shields.io/badge/Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
